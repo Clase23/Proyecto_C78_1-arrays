@@ -1,0 +1,106 @@
+
+1. Objetivo del Proyecto
+Desarrollar una aplicación en JavaScript que utilice arrays para almacenar, manipular y visualizar datos. El propósito es comprender el uso de arrays y sus métodos principales para trabajar con conjuntos de información de manera eficiente.
+
+
+2. Definición y Conceptos Básicos
+Array: Un array en JavaScript es una estructura de datos que permite almacenar múltiples valores en una sola variable.
+
+Índices: Cada elemento en un array tiene un índice numérico que comienza desde 0.
+
+Métodos de Arrays: JavaScript proporciona varios métodos para manipular arrays, como push(), pop(), shift(), unshift(), map(), filter(), reduce(), entre otros.
+
+Iteración: Se pueden recorrer los arrays con bucles como for, forEach(), o map().
+
+3. Alcance
+El proyecto incluirá la creación de un programa que realice operaciones básicas con arrays, tales como:
+
+Creación y modificación de arrays.
+
+Agregar y eliminar elementos.
+
+Ordenar y filtrar datos.
+
+Recorrer arrays y realizar operaciones con sus elementos.
+
+
+4. Requisitos
+Usa editor de código (Visual Studio Code).
+
+Un navegador web para ejecutar y probar el código.
+
+5. Pasos a Seguir
+
+Agrega código en el archivo JavaScript para que se visualice en la página web.
+
+Agrega código en el archivo JavaScript para que se vusualice en la Consola.
+
+Probar y depurar el código para asegurar su correcto funcionamiento.
+
+
+6. Criterios de Evaluación
+Correcta implementación y manipulación de arrays.
+
+Uso adecuado de los métodos de arrays.
+
+Estructura y claridad del código.
+
+Funcionamiento sin errores.
+
+
+7. Entregables
+
+A continuación, se listan algunos ejercicios que deben implementarse dentro del proyecto:
+
+Declarar un array y mostrarlo en el elemento con id declarar_arrays.
+
+Obtener el primer elemento de un array (acceder_primer_elemento).
+
+Obtener el segundo elemento de un array (acceder_segundo_elemento).
+
+Obtener el tercer elemento de un array (acceder_tercer_elemento).
+
+Obtener la longitud del array (ver_longitud_del_array).
+
+Crear un bucle que recorra el array (bucle_del_array).
+
+Añadir un elemento al final del array con push (añadir_elemento_al_final_de_un_array).
+
+Añadir más elementos al final del array (añadir_más_elementos_al_final_de_un_array).
+
+Declarar un array con el alfabeto (ver_array_alfabeto).
+
+Ordenar el array del alfabeto (ver_array_alfabeto_ordenado).
+
+Invertir el array (ver_array_invertido).
+
+Declarar un array con números (ver_array_num).
+
+Encontrar el valor máximo del array de números (ver_num_max).
+
+Encontrar el valor mínimo del array de números (ver_num_min).
+
+Actividad Adicional:
+
+Añadir un elemento al inicio de un array con unshift (añadir_elemento_al_inicio_del_array).
+
+Agregar más elementos al inicio de un array (añadir_más_elementos_al_inicio_del_array).
+
+Remover un elemento al inicio del array (remover_elemento_al_inicio_del_array).
+
+Remover un elemento al final del array (remover_elemento_al_final_del_array).
+
+Declarar un array con doce estados de México.
+
+Declarar un array con otros doce estados de México.
+
+Unir dos arrays (unir_dos_arrays).
+
+
+10. Consideraciones Especiales
+
+Se recomienda seguir buenas prácticas de programación como la tabulación.
+
+Incluir comentarios en el código para facilitar su comprensión.
+
+Probar con diferentes tipos de datos para verificar el correcto funcionamiento del programa.
